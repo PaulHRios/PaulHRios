@@ -8,7 +8,7 @@
 [![Instagram: impaul8v](https://img.shields.io/badge/impaul8-148-blueviolet?style=social&logo=instagram)](https://www.instagram.com/impaul8v/)
 [![GitHub PaulHRios](https://img.shields.io/github/followers/PaulHRios?label=follow&style=social)](https://github.com/PaulHRios)
 
-### <img src="https://media.giphy.com/media/Q40zmeFedhkbhISnwj/giphy.gif" width="60"> A little more about me...  
+<img src="https://media.giphy.com/media/Q40zmeFedhkbhISnwj/giphy.gif" width="60"> A little more about me...  
 
 ```javascript
 const Paul = {
