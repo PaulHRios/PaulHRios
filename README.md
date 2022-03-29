@@ -1,4 +1,5 @@
 <h2> Hey, I'm Paul Rios <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="80"></h2>
+<img align='right' src="https://avatars.githubusercontent.com/u/99060571?v=4" width="200">
 
 <p><em>Machinery and panel design engineer at <a href="https://www.jpconveyors.com.mx/">JP Conveyors</a><img src="https://media.giphy.com/media/xPrMr0IqGGZ8c/giphy.gif" width="50"></br> Full Stack Developer formed in <a href="https://github.com/LaunchX-InnovaccionVirtual">launchX</a><img src="https://media.giphy.com/media/PmYFV3urYHA7y35cRQ/giphy.gif" width="60"> 
 </em></p>
