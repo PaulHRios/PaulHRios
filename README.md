@@ -1,40 +1,35 @@
-# 👋 ¡Hola! Soy Paúl Eduardo Hernández Ríos
+# Paúl Eduardo Hernández Ríos
 
-### 🚀 Acerca de mí
-Soy **ingeniero mecatrónico** de profesión y un apasionado **escritor**. Además de mi formación académica en ingeniería, he desarrollado una carrera como autor de libros que exploran temas profundos sobre filosofía, introspección y el propósito de la vida. Actualmente también trabajo como **freelancer en mantenimiento**, aplicando mis habilidades técnicas para resolver problemas complejos en entornos dinámicos.
+Ingeniero mecatrónico y escritor.
 
-### ✍️ Mis Libros
-Como escritor, he publicado obras en español e inglés que invitan a reflexionar sobre la existencia y las emociones humanas. Aquí puedes explorar mis libros:
+## Perfil
 
-#### 📚 En Español:
-- [**Una lectura sin lectores**](https://a.co/d/a9zhCA0)
-- [**Brooke está rota**](https://a.co/d/1od4A1b)
+Ingeniero mecatrónico de formación. Compagino el trabajo técnico con la escritura,
+área en la que he publicado obras en español e inglés. Actualmente trabajo como
+freelancer en mantenimiento, donde aplico mi formación técnica a la resolución de
+problemas en distintos entornos.
 
-#### 📘 En Inglés:
-- [**A Reading Without Readers**](https://a.co/d/9vaQPTL) *(versión en inglés de "Una lectura sin lectores")*
-- [**Brooke Is Broken**](https://a.co/d/eKDL52y) *(versión en inglés de "Brooke está rota")*
+## Experiencia técnica
 
-### 💻 Experiencia Profesional
-En el ámbito técnico, cuento con experiencia en:
 - Reparaciones técnicas y mantenimiento preventivo.
 - Manejo seguro de químicos industriales.
-- Resolución de problemas bajo presión en sectores de todo tipo.
+- Resolución de problemas en contextos cambiantes y bajo presión.
 
-Esta combinación de habilidades técnicas y creatividad literaria me permite abordar proyectos desde una perspectiva única y versátil.
+## Publicaciones
 
-### 🌟 Habilidades y Pasiones
-- **Escritura creativa**: Publicar libros que exploren el significado de la existencia y las emociones humanas.
-- **Ingeniería práctica**: Optimizar sistemas técnicos y resolver problemas complejos.
-- **Fotografía y cine**: Crear cortometrajes melancólicos con un enfoque artístico.
-- **Exploración personal**: Aprender constantemente nuevas habilidades, como técnicas de supervivencia en la nieve.
+### En español
+- [Una lectura sin lectores](https://a.co/d/a9zhCA0)
+- [Brooke está rota](https://a.co/d/1od4A1b)
 
-### 🌍 Mi Filosofía
-Creo en combinar habilidades técnicas con creatividad para crear impacto. Mi objetivo es seguir explorando nuevas culturas, ideas y proyectos que enriquezcan mi vida y la de los demás.
+### En inglés
+- [A Reading Without Readers](https://a.co/d/9vaQPTL) — versión en inglés de *Una lectura sin lectores*.
+- [Brooke Is Broken](https://a.co/d/eKDL52y) — versión en inglés de *Brooke está rota*.
 
----
+## Otros intereses
 
-### 📫 ¡Conectemos!
-Descubre más sobre mí y mis proyectos en mi **Linktree**:  
-[**linktr.ee/Sgto_Paul**](https://linktr.ee/Sgto_Paul)
+Fotografía y cine, con interés particular en el cortometraje. También dedico tiempo
+al aprendizaje continuo de nuevas disciplinas y técnicas.
 
-¡Gracias por visitar mi perfil!
+## Contacto
+
+Más información y proyectos en mi [Linktree](https://linktr.ee/Sgto_Paul).
